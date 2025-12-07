@@ -1,0 +1,82 @@
+[
+  {
+    "id": "usr_001",
+    "name": "Ana García",
+    "email": "ana@startup.io",
+    "plan": "pro",
+    "signup_date": "2024-01-15",
+    "company": "StartupCo"
+  },
+  {
+    "id": "usr_002",
+    "name": "Carlos Ruiz",
+    "email": "carlos@bigcorp.com",
+    "plan": "enterprise",
+    "signup_date": "2024-02-20",
+    "company": "BigCorp"
+  },
+  {
+    "id": "usr_003",
+    "name": "María López",
+    "email": "maria@agency.es",
+    "plan": "free",
+    "signup_date": "2024-03-10",
+    "company": "Digital Agency"
+  },
+  {
+    "id": "usr_004",
+    "name": "Pedro Sánchez",
+    "email": "pedro@techie.dev",
+    "plan": "pro",
+    "signup_date": "2024-04-05",
+    "company": "Techie Labs"
+  },
+  {
+    "id": "usr_005",
+    "name": "Laura Martín",
+    "email": "laura@ecom.shop",
+    "plan": "pro",
+    "signup_date": "2024-05-12",
+    "company": "EcomShop"
+  },
+  {
+    "id": "usr_006",
+    "name": "Diego Torres",
+    "email": "diego@fintech.io",
+    "plan": "enterprise",
+    "signup_date": "2024-01-08",
+    "company": "FinTech Plus"
+  },
+  {
+    "id": "usr_007",
+    "name": "Elena Vega",
+    "email": "elena@saas.tools",
+    "plan": "free",
+    "signup_date": "2024-06-22",
+    "company": "SaaS Tools"
+  },
+  {
+    "id": "usr_008",
+    "name": "Javier Mora",
+    "email": "javier@design.co",
+    "plan": "pro",
+    "signup_date": "2024-07-01",
+    "company": "Design Co"
+  },
+  {
+    "id": "usr_009",
+    "name": "Sara Blanco",
+    "email": "sara@data.team",
+    "plan": "enterprise",
+    "signup_date": "2024-02-14",
+    "company": "Data Team"
+  },
+  {
+    "id": "usr_010",
+    "name": "Miguel Ángel",
+    "email": "miguel@retail.mx",
+    "plan": "free",
+    "signup_date": "2024-08-30",
+    "company": "Retail MX"
+  }
+]

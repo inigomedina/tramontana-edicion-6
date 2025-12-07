@@ -1,0 +1,3096 @@
+[
+  {
+    "id": "evt_0430",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-11-28T19:26:00Z"
+  },
+  {
+    "id": "evt_0433",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-28T17:44:00Z"
+  },
+  {
+    "id": "evt_0427",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-28T17:08:00Z"
+  },
+  {
+    "id": "evt_0424",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-28T16:50:00Z"
+  },
+  {
+    "id": "evt_0428",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "api_access",
+    "timestamp": "2025-11-28T16:45:00Z"
+  },
+  {
+    "id": "evt_0434",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-11-28T14:01:00Z"
+  },
+  {
+    "id": "evt_0425",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-28T13:53:00Z"
+  },
+  {
+    "id": "evt_0436",
+    "user_id": "usr_003",
+    "event_type": "feature_use",
+    "feature": "alerts",
+    "timestamp": "2025-11-28T13:46:00Z"
+  },
+  {
+    "id": "evt_0435",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-11-28T13:39:00Z"
+  },
+  {
+    "id": "evt_0438",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-11-28T13:02:00Z"
+  },
+  {
+    "id": "evt_0423",
+    "user_id": "usr_008",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-28T13:01:00Z"
+  },
+  {
+    "id": "evt_0442",
+    "user_id": "usr_007",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-28T12:50:00Z"
+  },
+  {
+    "id": "evt_0429",
+    "user_id": "usr_006",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-28T12:00:00Z"
+  },
+  {
+    "id": "evt_0426",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-28T11:50:00Z"
+  },
+  {
+    "id": "evt_0431",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-11-28T10:45:00Z"
+  },
+  {
+    "id": "evt_0441",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-28T09:42:00Z"
+  },
+  {
+    "id": "evt_0440",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-28T08:32:00Z"
+  },
+  {
+    "id": "evt_0439",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "alerts",
+    "timestamp": "2025-11-28T07:01:00Z"
+  },
+  {
+    "id": "evt_0437",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-28T06:51:00Z"
+  },
+  {
+    "id": "evt_0432",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-28T03:43:00Z"
+  },
+  {
+    "id": "evt_0415",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-27T18:26:00Z"
+  },
+  {
+    "id": "evt_0419",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-27T17:47:00Z"
+  },
+  {
+    "id": "evt_0416",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-27T15:51:00Z"
+  },
+  {
+    "id": "evt_0412",
+    "user_id": "usr_002",
+    "event_type": "click",
+    "feature": "integrations",
+    "timestamp": "2025-11-27T15:33:00Z"
+  },
+  {
+    "id": "evt_0417",
+    "user_id": "usr_010",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-27T15:09:00Z"
+  },
+  {
+    "id": "evt_0421",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "collaboration",
+    "timestamp": "2025-11-27T13:28:00Z"
+  },
+  {
+    "id": "evt_0422",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-27T11:51:00Z"
+  },
+  {
+    "id": "evt_0414",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "integrations",
+    "timestamp": "2025-11-27T10:36:00Z"
+  },
+  {
+    "id": "evt_0418",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-27T10:34:00Z"
+  },
+  {
+    "id": "evt_0411",
+    "user_id": "usr_005",
+    "event_type": "pageview",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-27T09:12:00Z"
+  },
+  {
+    "id": "evt_0420",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "export_csv",
+    "timestamp": "2025-11-27T05:59:00Z"
+  },
+  {
+    "id": "evt_0413",
+    "user_id": "usr_002",
+    "event_type": "click",
+    "feature": "integrations",
+    "timestamp": "2025-11-27T03:17:00Z"
+  },
+  {
+    "id": "evt_0406",
+    "user_id": "usr_005",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-26T18:03:00Z"
+  },
+  {
+    "id": "evt_0396",
+    "user_id": "usr_008",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-26T17:04:00Z"
+  },
+  {
+    "id": "evt_0399",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-26T16:06:00Z"
+  },
+  {
+    "id": "evt_0404",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-26T15:59:00Z"
+  },
+  {
+    "id": "evt_0392",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "ai_insights",
+    "timestamp": "2025-11-26T14:50:00Z"
+  },
+  {
+    "id": "evt_0387",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-26T14:49:00Z"
+  },
+  {
+    "id": "evt_0391",
+    "user_id": "usr_009",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-26T14:26:00Z"
+  },
+  {
+    "id": "evt_0409",
+    "user_id": "usr_010",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-26T13:28:00Z"
+  },
+  {
+    "id": "evt_0401",
+    "user_id": "usr_004",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-26T11:48:00Z"
+  },
+  {
+    "id": "evt_0400",
+    "user_id": "usr_003",
+    "event_type": "share",
+    "feature": "export_csv",
+    "timestamp": "2025-11-26T11:38:00Z"
+  },
+  {
+    "id": "evt_0405",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-11-26T11:18:00Z"
+  },
+  {
+    "id": "evt_0410",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-26T11:11:00Z"
+  },
+  {
+    "id": "evt_0402",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-26T10:52:00Z"
+  },
+  {
+    "id": "evt_0390",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-26T10:32:00Z"
+  },
+  {
+    "id": "evt_0403",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-26T10:22:00Z"
+  },
+  {
+    "id": "evt_0398",
+    "user_id": "usr_004",
+    "event_type": "feature_use",
+    "feature": "integrations",
+    "timestamp": "2025-11-26T10:16:00Z"
+  },
+  {
+    "id": "evt_0407",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-11-26T09:39:00Z"
+  },
+  {
+    "id": "evt_0394",
+    "user_id": "usr_005",
+    "event_type": "share",
+    "feature": "integrations",
+    "timestamp": "2025-11-26T09:26:00Z"
+  },
+  {
+    "id": "evt_0408",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-26T09:20:00Z"
+  },
+  {
+    "id": "evt_0388",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-26T08:28:00Z"
+  },
+  {
+    "id": "evt_0395",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-26T08:11:00Z"
+  },
+  {
+    "id": "evt_0397",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-26T07:37:00Z"
+  },
+  {
+    "id": "evt_0386",
+    "user_id": "usr_004",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-26T07:34:00Z"
+  },
+  {
+    "id": "evt_0389",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-26T07:04:00Z"
+  },
+  {
+    "id": "evt_0393",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-26T05:57:00Z"
+  },
+  {
+    "id": "evt_0371",
+    "user_id": "usr_006",
+    "event_type": "click",
+    "feature": "ai_insights",
+    "timestamp": "2025-11-25T18:19:00Z"
+  },
+  {
+    "id": "evt_0370",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "integrations",
+    "timestamp": "2025-11-25T18:00:00Z"
+  },
+  {
+    "id": "evt_0382",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "integrations",
+    "timestamp": "2025-11-25T16:06:00Z"
+  },
+  {
+    "id": "evt_0379",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "integrations",
+    "timestamp": "2025-11-25T15:52:00Z"
+  },
+  {
+    "id": "evt_0383",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-25T15:45:00Z"
+  },
+  {
+    "id": "evt_0378",
+    "user_id": "usr_004",
+    "event_type": "pageview",
+    "feature": "export_csv",
+    "timestamp": "2025-11-25T15:18:00Z"
+  },
+  {
+    "id": "evt_0364",
+    "user_id": "usr_002",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-25T15:11:00Z"
+  },
+  {
+    "id": "evt_0377",
+    "user_id": "usr_005",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-25T14:41:00Z"
+  },
+  {
+    "id": "evt_0368",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "api_access",
+    "timestamp": "2025-11-25T14:39:00Z"
+  },
+  {
+    "id": "evt_0376",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-25T14:33:00Z"
+  },
+  {
+    "id": "evt_0372",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-25T14:21:00Z"
+  },
+  {
+    "id": "evt_0367",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-25T14:13:00Z"
+  },
+  {
+    "id": "evt_0373",
+    "user_id": "usr_005",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-25T14:13:00Z"
+  },
+  {
+    "id": "evt_0375",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-25T13:19:00Z"
+  },
+  {
+    "id": "evt_0374",
+    "user_id": "usr_008",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-25T11:06:00Z"
+  },
+  {
+    "id": "evt_0380",
+    "user_id": "usr_006",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-25T10:39:00Z"
+  },
+  {
+    "id": "evt_0366",
+    "user_id": "usr_010",
+    "event_type": "pageview",
+    "feature": "alerts",
+    "timestamp": "2025-11-25T10:20:00Z"
+  },
+  {
+    "id": "evt_0384",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-25T09:48:00Z"
+  },
+  {
+    "id": "evt_0369",
+    "user_id": "usr_008",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-25T09:23:00Z"
+  },
+  {
+    "id": "evt_0362",
+    "user_id": "usr_009",
+    "event_type": "feature_use",
+    "feature": "export_csv",
+    "timestamp": "2025-11-25T08:55:00Z"
+  },
+  {
+    "id": "evt_0363",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-25T07:51:00Z"
+  },
+  {
+    "id": "evt_0365",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-25T07:44:00Z"
+  },
+  {
+    "id": "evt_0381",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-25T05:11:00Z"
+  },
+  {
+    "id": "evt_0385",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "integrations",
+    "timestamp": "2025-11-25T03:04:00Z"
+  },
+  {
+    "id": "evt_0359",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-11-24T17:13:00Z"
+  },
+  {
+    "id": "evt_0351",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "alerts",
+    "timestamp": "2025-11-24T16:22:00Z"
+  },
+  {
+    "id": "evt_0361",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-24T15:40:00Z"
+  },
+  {
+    "id": "evt_0353",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-24T14:22:00Z"
+  },
+  {
+    "id": "evt_0357",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-24T13:33:00Z"
+  },
+  {
+    "id": "evt_0356",
+    "user_id": "usr_009",
+    "event_type": "feature_use",
+    "feature": "alerts",
+    "timestamp": "2025-11-24T13:29:00Z"
+  },
+  {
+    "id": "evt_0358",
+    "user_id": "usr_005",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-24T12:50:00Z"
+  },
+  {
+    "id": "evt_0349",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "export_csv",
+    "timestamp": "2025-11-24T11:50:00Z"
+  },
+  {
+    "id": "evt_0360",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-11-24T11:27:00Z"
+  },
+  {
+    "id": "evt_0354",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-24T09:35:00Z"
+  },
+  {
+    "id": "evt_0350",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "export_csv",
+    "timestamp": "2025-11-24T08:29:00Z"
+  },
+  {
+    "id": "evt_0352",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "collaboration",
+    "timestamp": "2025-11-24T08:26:00Z"
+  },
+  {
+    "id": "evt_0355",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-24T07:54:00Z"
+  },
+  {
+    "id": "evt_0348",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-23T15:02:00Z"
+  },
+  {
+    "id": "evt_0347",
+    "user_id": "usr_008",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-23T13:59:00Z"
+  },
+  {
+    "id": "evt_0346",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-23T12:03:00Z"
+  },
+  {
+    "id": "evt_0345",
+    "user_id": "usr_008",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-23T08:12:00Z"
+  },
+  {
+    "id": "evt_0343",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-22T23:36:00Z"
+  },
+  {
+    "id": "evt_0342",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-22T11:28:00Z"
+  },
+  {
+    "id": "evt_0341",
+    "user_id": "usr_002",
+    "event_type": "click",
+    "feature": "integrations",
+    "timestamp": "2025-11-22T09:12:00Z"
+  },
+  {
+    "id": "evt_0344",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-11-22T09:05:00Z"
+  },
+  {
+    "id": "evt_0328",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-21T23:47:00Z"
+  },
+  {
+    "id": "evt_0322",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-21T20:34:00Z"
+  },
+  {
+    "id": "evt_0326",
+    "user_id": "usr_003",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-11-21T19:18:00Z"
+  },
+  {
+    "id": "evt_0331",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-21T17:37:00Z"
+  },
+  {
+    "id": "evt_0325",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-21T17:13:00Z"
+  },
+  {
+    "id": "evt_0335",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-21T16:39:00Z"
+  },
+  {
+    "id": "evt_0336",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "collaboration",
+    "timestamp": "2025-11-21T16:26:00Z"
+  },
+  {
+    "id": "evt_0333",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "integrations",
+    "timestamp": "2025-11-21T15:18:00Z"
+  },
+  {
+    "id": "evt_0338",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-21T11:29:00Z"
+  },
+  {
+    "id": "evt_0332",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-21T10:33:00Z"
+  },
+  {
+    "id": "evt_0330",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "collaboration",
+    "timestamp": "2025-11-21T10:19:00Z"
+  },
+  {
+    "id": "evt_0327",
+    "user_id": "usr_004",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-21T09:42:00Z"
+  },
+  {
+    "id": "evt_0334",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-21T08:40:00Z"
+  },
+  {
+    "id": "evt_0329",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-21T07:21:00Z"
+  },
+  {
+    "id": "evt_0339",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-21T07:21:00Z"
+  },
+  {
+    "id": "evt_0323",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-21T06:40:00Z"
+  },
+  {
+    "id": "evt_0324",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-21T06:07:00Z"
+  },
+  {
+    "id": "evt_0337",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-21T04:52:00Z"
+  },
+  {
+    "id": "evt_0340",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-21T03:50:00Z"
+  },
+  {
+    "id": "evt_0321",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-20T20:35:00Z"
+  },
+  {
+    "id": "evt_0302",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "ai_insights",
+    "timestamp": "2025-11-20T20:16:00Z"
+  },
+  {
+    "id": "evt_0308",
+    "user_id": "usr_004",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-20T18:45:00Z"
+  },
+  {
+    "id": "evt_0300",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "integrations",
+    "timestamp": "2025-11-20T17:44:00Z"
+  },
+  {
+    "id": "evt_0319",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "api_access",
+    "timestamp": "2025-11-20T16:54:00Z"
+  },
+  {
+    "id": "evt_0305",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-20T16:00:00Z"
+  },
+  {
+    "id": "evt_0304",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-20T15:27:00Z"
+  },
+  {
+    "id": "evt_0317",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-20T14:10:00Z"
+  },
+  {
+    "id": "evt_0299",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "export_csv",
+    "timestamp": "2025-11-20T14:04:00Z"
+  },
+  {
+    "id": "evt_0307",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-20T13:49:00Z"
+  },
+  {
+    "id": "evt_0301",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-20T13:20:00Z"
+  },
+  {
+    "id": "evt_0303",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-20T12:37:00Z"
+  },
+  {
+    "id": "evt_0313",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-11-20T12:27:00Z"
+  },
+  {
+    "id": "evt_0320",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "integrations",
+    "timestamp": "2025-11-20T12:11:00Z"
+  },
+  {
+    "id": "evt_0316",
+    "user_id": "usr_003",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-20T11:36:00Z"
+  },
+  {
+    "id": "evt_0306",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-20T10:04:00Z"
+  },
+  {
+    "id": "evt_0314",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-11-20T10:03:00Z"
+  },
+  {
+    "id": "evt_0310",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-20T09:05:00Z"
+  },
+  {
+    "id": "evt_0312",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-20T08:56:00Z"
+  },
+  {
+    "id": "evt_0309",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "collaboration",
+    "timestamp": "2025-11-20T05:20:00Z"
+  },
+  {
+    "id": "evt_0318",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-20T04:02:00Z"
+  },
+  {
+    "id": "evt_0315",
+    "user_id": "usr_005",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-20T03:18:00Z"
+  },
+  {
+    "id": "evt_0311",
+    "user_id": "usr_008",
+    "event_type": "feature_use",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-20T02:18:00Z"
+  },
+  {
+    "id": "evt_0285",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-19T22:23:00Z"
+  },
+  {
+    "id": "evt_0296",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-11-19T19:12:00Z"
+  },
+  {
+    "id": "evt_0294",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-19T19:06:00Z"
+  },
+  {
+    "id": "evt_0288",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-19T19:03:00Z"
+  },
+  {
+    "id": "evt_0291",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-11-19T16:10:00Z"
+  },
+  {
+    "id": "evt_0282",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "integrations",
+    "timestamp": "2025-11-19T14:43:00Z"
+  },
+  {
+    "id": "evt_0287",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-19T13:40:00Z"
+  },
+  {
+    "id": "evt_0283",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-19T13:37:00Z"
+  },
+  {
+    "id": "evt_0280",
+    "user_id": "usr_004",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-19T13:35:00Z"
+  },
+  {
+    "id": "evt_0290",
+    "user_id": "usr_008",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-11-19T12:31:00Z"
+  },
+  {
+    "id": "evt_0292",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-19T11:48:00Z"
+  },
+  {
+    "id": "evt_0284",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-19T11:31:00Z"
+  },
+  {
+    "id": "evt_0297",
+    "user_id": "usr_008",
+    "event_type": "export",
+    "feature": "ai_insights",
+    "timestamp": "2025-11-19T11:10:00Z"
+  },
+  {
+    "id": "evt_0295",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "export_csv",
+    "timestamp": "2025-11-19T11:06:00Z"
+  },
+  {
+    "id": "evt_0279",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-19T10:41:00Z"
+  },
+  {
+    "id": "evt_0298",
+    "user_id": "usr_010",
+    "event_type": "pageview",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-19T10:37:00Z"
+  },
+  {
+    "id": "evt_0277",
+    "user_id": "usr_009",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-19T10:30:00Z"
+  },
+  {
+    "id": "evt_0293",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-11-19T10:30:00Z"
+  },
+  {
+    "id": "evt_0281",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-19T10:27:00Z"
+  },
+  {
+    "id": "evt_0278",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-19T08:33:00Z"
+  },
+  {
+    "id": "evt_0289",
+    "user_id": "usr_007",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-19T07:09:00Z"
+  },
+  {
+    "id": "evt_0286",
+    "user_id": "usr_006",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-19T03:48:00Z"
+  },
+  {
+    "id": "evt_0270",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-18T20:07:00Z"
+  },
+  {
+    "id": "evt_0261",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-18T19:26:00Z"
+  },
+  {
+    "id": "evt_0275",
+    "user_id": "usr_008",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-18T18:31:00Z"
+  },
+  {
+    "id": "evt_0268",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-18T18:08:00Z"
+  },
+  {
+    "id": "evt_0257",
+    "user_id": "usr_010",
+    "event_type": "pageview",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-18T17:09:00Z"
+  },
+  {
+    "id": "evt_0269",
+    "user_id": "usr_008",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-18T16:47:00Z"
+  },
+  {
+    "id": "evt_0276",
+    "user_id": "usr_005",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-18T16:36:00Z"
+  },
+  {
+    "id": "evt_0274",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-18T16:34:00Z"
+  },
+  {
+    "id": "evt_0262",
+    "user_id": "usr_008",
+    "event_type": "pageview",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-18T16:16:00Z"
+  },
+  {
+    "id": "evt_0259",
+    "user_id": "usr_004",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-18T15:41:00Z"
+  },
+  {
+    "id": "evt_0255",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-18T14:44:00Z"
+  },
+  {
+    "id": "evt_0264",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "collaboration",
+    "timestamp": "2025-11-18T13:53:00Z"
+  },
+  {
+    "id": "evt_0252",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-18T13:39:00Z"
+  },
+  {
+    "id": "evt_0271",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-18T13:37:00Z"
+  },
+  {
+    "id": "evt_0266",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-18T13:21:00Z"
+  },
+  {
+    "id": "evt_0254",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-18T12:25:00Z"
+  },
+  {
+    "id": "evt_0265",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-18T11:57:00Z"
+  },
+  {
+    "id": "evt_0260",
+    "user_id": "usr_005",
+    "event_type": "feature_use",
+    "feature": "alerts",
+    "timestamp": "2025-11-18T10:28:00Z"
+  },
+  {
+    "id": "evt_0267",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-18T09:59:00Z"
+  },
+  {
+    "id": "evt_0256",
+    "user_id": "usr_008",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-18T09:58:00Z"
+  },
+  {
+    "id": "evt_0272",
+    "user_id": "usr_005",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-11-18T09:39:00Z"
+  },
+  {
+    "id": "evt_0258",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "alerts",
+    "timestamp": "2025-11-18T09:21:00Z"
+  },
+  {
+    "id": "evt_0273",
+    "user_id": "usr_002",
+    "event_type": "click",
+    "feature": "integrations",
+    "timestamp": "2025-11-18T09:13:00Z"
+  },
+  {
+    "id": "evt_0253",
+    "user_id": "usr_010",
+    "event_type": "pageview",
+    "feature": "alerts",
+    "timestamp": "2025-11-18T08:16:00Z"
+  },
+  {
+    "id": "evt_0263",
+    "user_id": "usr_003",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-18T05:48:00Z"
+  },
+  {
+    "id": "evt_0250",
+    "user_id": "usr_003",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-17T15:50:00Z"
+  },
+  {
+    "id": "evt_0248",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-17T15:30:00Z"
+  },
+  {
+    "id": "evt_0242",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-17T15:09:00Z"
+  },
+  {
+    "id": "evt_0243",
+    "user_id": "usr_005",
+    "event_type": "feature_use",
+    "feature": "alerts",
+    "timestamp": "2025-11-17T15:03:00Z"
+  },
+  {
+    "id": "evt_0240",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-17T14:20:00Z"
+  },
+  {
+    "id": "evt_0249",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-17T14:05:00Z"
+  },
+  {
+    "id": "evt_0244",
+    "user_id": "usr_002",
+    "event_type": "click",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-17T12:30:00Z"
+  },
+  {
+    "id": "evt_0241",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-17T12:29:00Z"
+  },
+  {
+    "id": "evt_0239",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "integrations",
+    "timestamp": "2025-11-17T11:48:00Z"
+  },
+  {
+    "id": "evt_0246",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-17T11:27:00Z"
+  },
+  {
+    "id": "evt_0251",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-17T09:01:00Z"
+  },
+  {
+    "id": "evt_0247",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-17T07:29:00Z"
+  },
+  {
+    "id": "evt_0245",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-17T02:18:00Z"
+  },
+  {
+    "id": "evt_0238",
+    "user_id": "usr_004",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-16T13:39:00Z"
+  },
+  {
+    "id": "evt_0236",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "api_access",
+    "timestamp": "2025-11-16T10:20:00Z"
+  },
+  {
+    "id": "evt_0237",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "collaboration",
+    "timestamp": "2025-11-16T10:12:00Z"
+  },
+  {
+    "id": "evt_0233",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-15T18:03:00Z"
+  },
+  {
+    "id": "evt_0232",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-15T16:01:00Z"
+  },
+  {
+    "id": "evt_0235",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-15T11:57:00Z"
+  },
+  {
+    "id": "evt_0234",
+    "user_id": "usr_008",
+    "event_type": "feature_use",
+    "feature": "api_access",
+    "timestamp": "2025-11-15T10:49:00Z"
+  },
+  {
+    "id": "evt_0231",
+    "user_id": "usr_008",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-11-15T09:25:00Z"
+  },
+  {
+    "id": "evt_0210",
+    "user_id": "usr_008",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-14T23:23:00Z"
+  },
+  {
+    "id": "evt_0214",
+    "user_id": "usr_007",
+    "event_type": "export",
+    "feature": "integrations",
+    "timestamp": "2025-11-14T20:29:00Z"
+  },
+  {
+    "id": "evt_0229",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "api_access",
+    "timestamp": "2025-11-14T19:35:00Z"
+  },
+  {
+    "id": "evt_0225",
+    "user_id": "usr_005",
+    "event_type": "feature_use",
+    "feature": "export_csv",
+    "timestamp": "2025-11-14T19:08:00Z"
+  },
+  {
+    "id": "evt_0216",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "integrations",
+    "timestamp": "2025-11-14T18:34:00Z"
+  },
+  {
+    "id": "evt_0226",
+    "user_id": "usr_002",
+    "event_type": "click",
+    "feature": "api_access",
+    "timestamp": "2025-11-14T17:52:00Z"
+  },
+  {
+    "id": "evt_0209",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-14T16:39:00Z"
+  },
+  {
+    "id": "evt_0212",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-14T16:21:00Z"
+  },
+  {
+    "id": "evt_0219",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "export_csv",
+    "timestamp": "2025-11-14T13:45:00Z"
+  },
+  {
+    "id": "evt_0221",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-14T13:13:00Z"
+  },
+  {
+    "id": "evt_0223",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-14T13:06:00Z"
+  },
+  {
+    "id": "evt_0228",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "integrations",
+    "timestamp": "2025-11-14T12:29:00Z"
+  },
+  {
+    "id": "evt_0208",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-14T12:15:00Z"
+  },
+  {
+    "id": "evt_0218",
+    "user_id": "usr_008",
+    "event_type": "feature_use",
+    "feature": "alerts",
+    "timestamp": "2025-11-14T10:20:00Z"
+  },
+  {
+    "id": "evt_0220",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-14T10:17:00Z"
+  },
+  {
+    "id": "evt_0222",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-14T09:55:00Z"
+  },
+  {
+    "id": "evt_0230",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "export_csv",
+    "timestamp": "2025-11-14T09:18:00Z"
+  },
+  {
+    "id": "evt_0227",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "collaboration",
+    "timestamp": "2025-11-14T09:08:00Z"
+  },
+  {
+    "id": "evt_0217",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "api_access",
+    "timestamp": "2025-11-14T08:27:00Z"
+  },
+  {
+    "id": "evt_0213",
+    "user_id": "usr_007",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-14T08:19:00Z"
+  },
+  {
+    "id": "evt_0224",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "export_csv",
+    "timestamp": "2025-11-14T07:56:00Z"
+  },
+  {
+    "id": "evt_0215",
+    "user_id": "usr_003",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-14T07:40:00Z"
+  },
+  {
+    "id": "evt_0211",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "collaboration",
+    "timestamp": "2025-11-14T03:33:00Z"
+  },
+  {
+    "id": "evt_0203",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-11-13T22:51:00Z"
+  },
+  {
+    "id": "evt_0200",
+    "user_id": "usr_002",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-13T21:59:00Z"
+  },
+  {
+    "id": "evt_0192",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-13T19:26:00Z"
+  },
+  {
+    "id": "evt_0197",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "export_csv",
+    "timestamp": "2025-11-13T17:53:00Z"
+  },
+  {
+    "id": "evt_0187",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-13T16:05:00Z"
+  },
+  {
+    "id": "evt_0205",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-13T15:51:00Z"
+  },
+  {
+    "id": "evt_0193",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-11-13T15:50:00Z"
+  },
+  {
+    "id": "evt_0188",
+    "user_id": "usr_003",
+    "event_type": "click",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-13T15:46:00Z"
+  },
+  {
+    "id": "evt_0199",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "collaboration",
+    "timestamp": "2025-11-13T15:32:00Z"
+  },
+  {
+    "id": "evt_0194",
+    "user_id": "usr_003",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-13T14:45:00Z"
+  },
+  {
+    "id": "evt_0196",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "export_csv",
+    "timestamp": "2025-11-13T13:14:00Z"
+  },
+  {
+    "id": "evt_0204",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-11-13T13:07:00Z"
+  },
+  {
+    "id": "evt_0190",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "alerts",
+    "timestamp": "2025-11-13T13:03:00Z"
+  },
+  {
+    "id": "evt_0206",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-13T12:55:00Z"
+  },
+  {
+    "id": "evt_0189",
+    "user_id": "usr_002",
+    "event_type": "click",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-13T12:30:00Z"
+  },
+  {
+    "id": "evt_0201",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-13T12:11:00Z"
+  },
+  {
+    "id": "evt_0202",
+    "user_id": "usr_007",
+    "event_type": "export",
+    "feature": "api_access",
+    "timestamp": "2025-11-13T10:18:00Z"
+  },
+  {
+    "id": "evt_0195",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-13T09:48:00Z"
+  },
+  {
+    "id": "evt_0191",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-13T08:13:00Z"
+  },
+  {
+    "id": "evt_0207",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-13T04:24:00Z"
+  },
+  {
+    "id": "evt_0198",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-13T02:44:00Z"
+  },
+  {
+    "id": "evt_0182",
+    "user_id": "usr_008",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-12T17:59:00Z"
+  },
+  {
+    "id": "evt_0178",
+    "user_id": "usr_009",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-12T16:56:00Z"
+  },
+  {
+    "id": "evt_0177",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-12T16:19:00Z"
+  },
+  {
+    "id": "evt_0171",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-12T15:58:00Z"
+  },
+  {
+    "id": "evt_0183",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "export_csv",
+    "timestamp": "2025-11-12T15:47:00Z"
+  },
+  {
+    "id": "evt_0184",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-12T15:13:00Z"
+  },
+  {
+    "id": "evt_0176",
+    "user_id": "usr_005",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-12T14:56:00Z"
+  },
+  {
+    "id": "evt_0180",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-12T13:53:00Z"
+  },
+  {
+    "id": "evt_0175",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-12T13:52:00Z"
+  },
+  {
+    "id": "evt_0181",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-12T12:20:00Z"
+  },
+  {
+    "id": "evt_0186",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-12T11:43:00Z"
+  },
+  {
+    "id": "evt_0173",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-12T10:54:00Z"
+  },
+  {
+    "id": "evt_0174",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "alerts",
+    "timestamp": "2025-11-12T10:45:00Z"
+  },
+  {
+    "id": "evt_0179",
+    "user_id": "usr_005",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-12T08:41:00Z"
+  },
+  {
+    "id": "evt_0172",
+    "user_id": "usr_010",
+    "event_type": "click",
+    "feature": "collaboration",
+    "timestamp": "2025-11-12T08:08:00Z"
+  },
+  {
+    "id": "evt_0185",
+    "user_id": "usr_009",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-12T07:26:00Z"
+  },
+  {
+    "id": "evt_0167",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-11T19:45:00Z"
+  },
+  {
+    "id": "evt_0156",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "alerts",
+    "timestamp": "2025-11-11T17:56:00Z"
+  },
+  {
+    "id": "evt_0165",
+    "user_id": "usr_010",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-11T17:03:00Z"
+  },
+  {
+    "id": "evt_0162",
+    "user_id": "usr_005",
+    "event_type": "pageview",
+    "feature": "alerts",
+    "timestamp": "2025-11-11T16:56:00Z"
+  },
+  {
+    "id": "evt_0152",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-11T15:56:00Z"
+  },
+  {
+    "id": "evt_0170",
+    "user_id": "usr_006",
+    "event_type": "click",
+    "feature": "alerts",
+    "timestamp": "2025-11-11T15:51:00Z"
+  },
+  {
+    "id": "evt_0159",
+    "user_id": "usr_005",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-11T14:55:00Z"
+  },
+  {
+    "id": "evt_0168",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-11T13:55:00Z"
+  },
+  {
+    "id": "evt_0164",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-11T12:28:00Z"
+  },
+  {
+    "id": "evt_0169",
+    "user_id": "usr_008",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-11T12:23:00Z"
+  },
+  {
+    "id": "evt_0153",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-11T11:15:00Z"
+  },
+  {
+    "id": "evt_0160",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-11T11:07:00Z"
+  },
+  {
+    "id": "evt_0163",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-11T10:33:00Z"
+  },
+  {
+    "id": "evt_0161",
+    "user_id": "usr_006",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-11T09:49:00Z"
+  },
+  {
+    "id": "evt_0158",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-11T09:36:00Z"
+  },
+  {
+    "id": "evt_0155",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-11T08:43:00Z"
+  },
+  {
+    "id": "evt_0154",
+    "user_id": "usr_005",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-11T07:44:00Z"
+  },
+  {
+    "id": "evt_0166",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-11-11T07:07:00Z"
+  },
+  {
+    "id": "evt_0157",
+    "user_id": "usr_005",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-11T00:43:00Z"
+  },
+  {
+    "id": "evt_0136",
+    "user_id": "usr_010",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-10T20:32:00Z"
+  },
+  {
+    "id": "evt_0138",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-10T17:18:00Z"
+  },
+  {
+    "id": "evt_0137",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-11-10T16:26:00Z"
+  },
+  {
+    "id": "evt_0150",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-10T15:42:00Z"
+  },
+  {
+    "id": "evt_0148",
+    "user_id": "usr_008",
+    "event_type": "pageview",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-10T12:39:00Z"
+  },
+  {
+    "id": "evt_0151",
+    "user_id": "usr_008",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-11-10T12:39:00Z"
+  },
+  {
+    "id": "evt_0139",
+    "user_id": "usr_008",
+    "event_type": "click",
+    "feature": "collaboration",
+    "timestamp": "2025-11-10T11:25:00Z"
+  },
+  {
+    "id": "evt_0146",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-10T11:16:00Z"
+  },
+  {
+    "id": "evt_0147",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "integrations",
+    "timestamp": "2025-11-10T10:49:00Z"
+  },
+  {
+    "id": "evt_0141",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-10T10:05:00Z"
+  },
+  {
+    "id": "evt_0142",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "collaboration",
+    "timestamp": "2025-11-10T10:02:00Z"
+  },
+  {
+    "id": "evt_0145",
+    "user_id": "usr_003",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-10T10:01:00Z"
+  },
+  {
+    "id": "evt_0149",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-10T07:09:00Z"
+  },
+  {
+    "id": "evt_0140",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "export_csv",
+    "timestamp": "2025-11-10T06:08:00Z"
+  },
+  {
+    "id": "evt_0144",
+    "user_id": "usr_007",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-10T05:52:00Z"
+  },
+  {
+    "id": "evt_0143",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "api_access",
+    "timestamp": "2025-11-10T02:15:00Z"
+  },
+  {
+    "id": "evt_0129",
+    "user_id": "usr_005",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-09T23:58:00Z"
+  },
+  {
+    "id": "evt_0130",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-09T21:18:00Z"
+  },
+  {
+    "id": "evt_0133",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "export_csv",
+    "timestamp": "2025-11-09T14:18:00Z"
+  },
+  {
+    "id": "evt_0132",
+    "user_id": "usr_003",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-09T12:26:00Z"
+  },
+  {
+    "id": "evt_0134",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-09T10:52:00Z"
+  },
+  {
+    "id": "evt_0131",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-09T10:01:00Z"
+  },
+  {
+    "id": "evt_0128",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-09T09:20:00Z"
+  },
+  {
+    "id": "evt_0135",
+    "user_id": "usr_003",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-09T06:34:00Z"
+  },
+  {
+    "id": "evt_0127",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "integrations",
+    "timestamp": "2025-11-08T16:40:00Z"
+  },
+  {
+    "id": "evt_0125",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-08T15:29:00Z"
+  },
+  {
+    "id": "evt_0126",
+    "user_id": "usr_007",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-08T09:10:00Z"
+  },
+  {
+    "id": "evt_0112",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-07T21:52:00Z"
+  },
+  {
+    "id": "evt_0113",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-07T20:11:00Z"
+  },
+  {
+    "id": "evt_0115",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-07T19:40:00Z"
+  },
+  {
+    "id": "evt_0119",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "collaboration",
+    "timestamp": "2025-11-07T19:05:00Z"
+  },
+  {
+    "id": "evt_0122",
+    "user_id": "usr_005",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-07T17:12:00Z"
+  },
+  {
+    "id": "evt_0114",
+    "user_id": "usr_007",
+    "event_type": "feature_use",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-07T16:34:00Z"
+  },
+  {
+    "id": "evt_0121",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-07T15:44:00Z"
+  },
+  {
+    "id": "evt_0123",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-07T14:17:00Z"
+  },
+  {
+    "id": "evt_0118",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "integrations",
+    "timestamp": "2025-11-07T13:23:00Z"
+  },
+  {
+    "id": "evt_0117",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "integrations",
+    "timestamp": "2025-11-07T11:11:00Z"
+  },
+  {
+    "id": "evt_0124",
+    "user_id": "usr_009",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-07T08:56:00Z"
+  },
+  {
+    "id": "evt_0120",
+    "user_id": "usr_004",
+    "event_type": "feature_use",
+    "feature": "export_csv",
+    "timestamp": "2025-11-07T05:55:00Z"
+  },
+  {
+    "id": "evt_0116",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-07T02:25:00Z"
+  },
+  {
+    "id": "evt_0100",
+    "user_id": "usr_008",
+    "event_type": "click",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-06T19:56:00Z"
+  },
+  {
+    "id": "evt_0110",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "alerts",
+    "timestamp": "2025-11-06T18:20:00Z"
+  },
+  {
+    "id": "evt_0096",
+    "user_id": "usr_001",
+    "event_type": "pageview",
+    "feature": "alerts",
+    "timestamp": "2025-11-06T18:06:00Z"
+  },
+  {
+    "id": "evt_0106",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-06T17:43:00Z"
+  },
+  {
+    "id": "evt_0094",
+    "user_id": "usr_004",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-06T17:30:00Z"
+  },
+  {
+    "id": "evt_0099",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-06T17:22:00Z"
+  },
+  {
+    "id": "evt_0091",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-06T15:44:00Z"
+  },
+  {
+    "id": "evt_0093",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "export_pdf",
+    "timestamp": "2025-11-06T15:18:00Z"
+  },
+  {
+    "id": "evt_0101",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-06T14:18:00Z"
+  },
+  {
+    "id": "evt_0108",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "alerts",
+    "timestamp": "2025-11-06T14:10:00Z"
+  },
+  {
+    "id": "evt_0104",
+    "user_id": "usr_001",
+    "event_type": "click",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-06T13:59:00Z"
+  },
+  {
+    "id": "evt_0111",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-06T13:58:00Z"
+  },
+  {
+    "id": "evt_0095",
+    "user_id": "usr_008",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-06T13:37:00Z"
+  },
+  {
+    "id": "evt_0090",
+    "user_id": "usr_005",
+    "event_type": "click",
+    "feature": "alerts",
+    "timestamp": "2025-11-06T11:46:00Z"
+  },
+  {
+    "id": "evt_0088",
+    "user_id": "usr_007",
+    "event_type": "pageview",
+    "feature": "api_access",
+    "timestamp": "2025-11-06T11:43:00Z"
+  },
+  {
+    "id": "evt_0097",
+    "user_id": "usr_008",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-06T11:10:00Z"
+  },
+  {
+    "id": "evt_0098",
+    "user_id": "usr_005",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-11-06T10:48:00Z"
+  },
+  {
+    "id": "evt_0109",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-06T09:50:00Z"
+  },
+  {
+    "id": "evt_0103",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "collaboration",
+    "timestamp": "2025-11-06T09:39:00Z"
+  },
+  {
+    "id": "evt_0105",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "export_csv",
+    "timestamp": "2025-11-06T09:30:00Z"
+  },
+  {
+    "id": "evt_0107",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "collaboration",
+    "timestamp": "2025-11-06T09:05:00Z"
+  },
+  {
+    "id": "evt_0089",
+    "user_id": "usr_006",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-06T09:02:00Z"
+  },
+  {
+    "id": "evt_0092",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-06T08:31:00Z"
+  },
+  {
+    "id": "evt_0102",
+    "user_id": "usr_008",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-06T00:02:00Z"
+  },
+  {
+    "id": "evt_0082",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-11-05T17:55:00Z"
+  },
+  {
+    "id": "evt_0076",
+    "user_id": "usr_009",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-05T16:58:00Z"
+  },
+  {
+    "id": "evt_0081",
+    "user_id": "usr_003",
+    "event_type": "share",
+    "feature": "api_access",
+    "timestamp": "2025-11-05T15:45:00Z"
+  },
+  {
+    "id": "evt_0087",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-05T13:44:00Z"
+  },
+  {
+    "id": "evt_0085",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "integrations",
+    "timestamp": "2025-11-05T12:08:00Z"
+  },
+  {
+    "id": "evt_0079",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-05T11:20:00Z"
+  },
+  {
+    "id": "evt_0078",
+    "user_id": "usr_005",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-11-05T10:58:00Z"
+  },
+  {
+    "id": "evt_0080",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "integrations",
+    "timestamp": "2025-11-05T10:42:00Z"
+  },
+  {
+    "id": "evt_0077",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-05T10:17:00Z"
+  },
+  {
+    "id": "evt_0083",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "integrations",
+    "timestamp": "2025-11-05T10:15:00Z"
+  },
+  {
+    "id": "evt_0084",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-05T09:05:00Z"
+  },
+  {
+    "id": "evt_0086",
+    "user_id": "usr_008",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-05T06:01:00Z"
+  },
+  {
+    "id": "evt_0058",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-11-04T23:17:00Z"
+  },
+  {
+    "id": "evt_0070",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "integrations",
+    "timestamp": "2025-11-04T21:31:00Z"
+  },
+  {
+    "id": "evt_0064",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "ai_insights",
+    "timestamp": "2025-11-04T19:05:00Z"
+  },
+  {
+    "id": "evt_0060",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-04T17:18:00Z"
+  },
+  {
+    "id": "evt_0074",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-04T16:53:00Z"
+  },
+  {
+    "id": "evt_0063",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-11-04T16:26:00Z"
+  },
+  {
+    "id": "evt_0071",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "alerts",
+    "timestamp": "2025-11-04T16:19:00Z"
+  },
+  {
+    "id": "evt_0073",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-04T16:12:00Z"
+  },
+  {
+    "id": "evt_0059",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-11-04T15:11:00Z"
+  },
+  {
+    "id": "evt_0075",
+    "user_id": "usr_008",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-04T14:51:00Z"
+  },
+  {
+    "id": "evt_0062",
+    "user_id": "usr_008",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-04T14:49:00Z"
+  },
+  {
+    "id": "evt_0069",
+    "user_id": "usr_007",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-04T14:28:00Z"
+  },
+  {
+    "id": "evt_0067",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-04T14:03:00Z"
+  },
+  {
+    "id": "evt_0068",
+    "user_id": "usr_004",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-04T13:28:00Z"
+  },
+  {
+    "id": "evt_0061",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "collaboration",
+    "timestamp": "2025-11-04T11:00:00Z"
+  },
+  {
+    "id": "evt_0072",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "api_access",
+    "timestamp": "2025-11-04T10:48:00Z"
+  },
+  {
+    "id": "evt_0066",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "alerts",
+    "timestamp": "2025-11-04T09:33:00Z"
+  },
+  {
+    "id": "evt_0065",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-04T01:33:00Z"
+  },
+  {
+    "id": "evt_0045",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-03T23:03:00Z"
+  },
+  {
+    "id": "evt_0055",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-03T21:07:00Z"
+  },
+  {
+    "id": "evt_0049",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "collaboration",
+    "timestamp": "2025-11-03T18:52:00Z"
+  },
+  {
+    "id": "evt_0053",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-03T16:13:00Z"
+  },
+  {
+    "id": "evt_0047",
+    "user_id": "usr_008",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-03T14:57:00Z"
+  },
+  {
+    "id": "evt_0051",
+    "user_id": "usr_005",
+    "event_type": "share",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-03T14:50:00Z"
+  },
+  {
+    "id": "evt_0043",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-11-03T14:38:00Z"
+  },
+  {
+    "id": "evt_0057",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "integrations",
+    "timestamp": "2025-11-03T13:22:00Z"
+  },
+  {
+    "id": "evt_0044",
+    "user_id": "usr_009",
+    "event_type": "feature_use",
+    "feature": "reports",
+    "timestamp": "2025-11-03T13:15:00Z"
+  },
+  {
+    "id": "evt_0042",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-11-03T13:07:00Z"
+  },
+  {
+    "id": "evt_0050",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-03T10:26:00Z"
+  },
+  {
+    "id": "evt_0056",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "export_csv",
+    "timestamp": "2025-11-03T09:52:00Z"
+  },
+  {
+    "id": "evt_0046",
+    "user_id": "usr_003",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-11-03T09:35:00Z"
+  },
+  {
+    "id": "evt_0052",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-03T08:30:00Z"
+  },
+  {
+    "id": "evt_0039",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "integrations",
+    "timestamp": "2025-11-03T08:07:00Z"
+  },
+  {
+    "id": "evt_0040",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-03T07:12:00Z"
+  },
+  {
+    "id": "evt_0041",
+    "user_id": "usr_009",
+    "event_type": "pageview",
+    "feature": "export_csv",
+    "timestamp": "2025-11-03T07:00:00Z"
+  },
+  {
+    "id": "evt_0048",
+    "user_id": "usr_008",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-03T03:59:00Z"
+  },
+  {
+    "id": "evt_0054",
+    "user_id": "usr_002",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-11-03T00:25:00Z"
+  },
+  {
+    "id": "evt_0035",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-02T18:47:00Z"
+  },
+  {
+    "id": "evt_0036",
+    "user_id": "usr_010",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-02T17:24:00Z"
+  },
+  {
+    "id": "evt_0038",
+    "user_id": "usr_003",
+    "event_type": "pageview",
+    "feature": "reports",
+    "timestamp": "2025-11-02T15:54:00Z"
+  },
+  {
+    "id": "evt_0032",
+    "user_id": "usr_007",
+    "event_type": "pageview",
+    "feature": "alerts",
+    "timestamp": "2025-11-02T15:49:00Z"
+  },
+  {
+    "id": "evt_0031",
+    "user_id": "usr_006",
+    "event_type": "click",
+    "feature": "alerts",
+    "timestamp": "2025-11-02T14:04:00Z"
+  },
+  {
+    "id": "evt_0034",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-02T10:00:00Z"
+  },
+  {
+    "id": "evt_0033",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-02T08:31:00Z"
+  },
+  {
+    "id": "evt_0037",
+    "user_id": "usr_002",
+    "event_type": "feature_use",
+    "feature": "export_csv",
+    "timestamp": "2025-11-02T07:51:00Z"
+  },
+  {
+    "id": "evt_0030",
+    "user_id": "usr_002",
+    "event_type": "click",
+    "feature": "export_csv",
+    "timestamp": "2025-11-01T17:09:00Z"
+  },
+  {
+    "id": "evt_0026",
+    "user_id": "usr_004",
+    "event_type": "click",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-11-01T16:31:00Z"
+  },
+  {
+    "id": "evt_0024",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-01T16:04:00Z"
+  },
+  {
+    "id": "evt_0029",
+    "user_id": "usr_009",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-11-01T11:37:00Z"
+  },
+  {
+    "id": "evt_0027",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-01T11:25:00Z"
+  },
+  {
+    "id": "evt_0028",
+    "user_id": "usr_008",
+    "event_type": "pageview",
+    "feature": "ai_insights",
+    "timestamp": "2025-11-01T09:31:00Z"
+  },
+  {
+    "id": "evt_0023",
+    "user_id": "usr_009",
+    "event_type": "export",
+    "feature": "reports",
+    "timestamp": "2025-11-01T08:20:00Z"
+  },
+  {
+    "id": "evt_0025",
+    "user_id": "usr_009",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-11-01T06:07:00Z"
+  },
+  {
+    "id": "evt_0002",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "alerts",
+    "timestamp": "2025-10-31T21:00:00Z"
+  },
+  {
+    "id": "evt_0004",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "alerts",
+    "timestamp": "2025-10-31T18:35:00Z"
+  },
+  {
+    "id": "evt_0014",
+    "user_id": "usr_001",
+    "event_type": "share",
+    "feature": "export_csv",
+    "timestamp": "2025-10-31T18:26:00Z"
+  },
+  {
+    "id": "evt_0018",
+    "user_id": "usr_001",
+    "event_type": "export",
+    "feature": "export_csv",
+    "timestamp": "2025-10-31T17:54:00Z"
+  },
+  {
+    "id": "evt_0019",
+    "user_id": "usr_005",
+    "event_type": "click",
+    "feature": "alerts",
+    "timestamp": "2025-10-31T16:47:00Z"
+  },
+  {
+    "id": "evt_0006",
+    "user_id": "usr_003",
+    "event_type": "share",
+    "feature": "reports",
+    "timestamp": "2025-10-31T16:30:00Z"
+  },
+  {
+    "id": "evt_0008",
+    "user_id": "usr_001",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-10-31T16:25:00Z"
+  },
+  {
+    "id": "evt_0015",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "ai_insights",
+    "timestamp": "2025-10-31T16:09:00Z"
+  },
+  {
+    "id": "evt_0021",
+    "user_id": "usr_004",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-10-31T14:30:00Z"
+  },
+  {
+    "id": "evt_0009",
+    "user_id": "usr_009",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-10-31T14:19:00Z"
+  },
+  {
+    "id": "evt_0001",
+    "user_id": "usr_006",
+    "event_type": "click",
+    "feature": "reports",
+    "timestamp": "2025-10-31T13:43:00Z"
+  },
+  {
+    "id": "evt_0012",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-10-31T12:01:00Z"
+  },
+  {
+    "id": "evt_0017",
+    "user_id": "usr_004",
+    "event_type": "share",
+    "feature": "dashboard",
+    "timestamp": "2025-10-31T11:15:00Z"
+  },
+  {
+    "id": "evt_0011",
+    "user_id": "usr_006",
+    "event_type": "share",
+    "feature": "collaboration",
+    "timestamp": "2025-10-31T10:56:00Z"
+  },
+  {
+    "id": "evt_0013",
+    "user_id": "usr_006",
+    "event_type": "export",
+    "feature": "dashboard",
+    "timestamp": "2025-10-31T10:56:00Z"
+  },
+  {
+    "id": "evt_0010",
+    "user_id": "usr_006",
+    "event_type": "pageview",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-10-31T09:53:00Z"
+  },
+  {
+    "id": "evt_0016",
+    "user_id": "usr_002",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-10-31T09:32:00Z"
+  },
+  {
+    "id": "evt_0005",
+    "user_id": "usr_002",
+    "event_type": "export",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-10-31T09:00:00Z"
+  },
+  {
+    "id": "evt_0020",
+    "user_id": "usr_005",
+    "event_type": "pageview",
+    "feature": "custom_dashboards",
+    "timestamp": "2025-10-31T08:24:00Z"
+  },
+  {
+    "id": "evt_0007",
+    "user_id": "usr_008",
+    "event_type": "click",
+    "feature": "dashboard",
+    "timestamp": "2025-10-31T07:15:00Z"
+  },
+  {
+    "id": "evt_0022",
+    "user_id": "usr_004",
+    "event_type": "pageview",
+    "feature": "dashboard",
+    "timestamp": "2025-10-31T06:37:00Z"
+  },
+  {
+    "id": "evt_0003",
+    "user_id": "usr_006",
+    "event_type": "feature_use",
+    "feature": "dashboard",
+    "timestamp": "2025-10-31T01:27:00Z"
+  }
+]
