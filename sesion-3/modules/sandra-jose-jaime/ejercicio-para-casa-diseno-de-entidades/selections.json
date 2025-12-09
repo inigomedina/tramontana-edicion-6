@@ -1,0 +1,14 @@
+
+[
+    {
+	"id": 601, 
+	"event_id": 501, 
+	"name": "Atlético Gana", 
+	"settlement_status": "PENDING", 
+	"settled_at": "null", 
+	"type_description": "Resultado Final 1X2"
+    },
+    {"id": 602, "event_id": 502, "name": "Real Madrid Gana", "settlement_status": "PENDING", "settled_at": "null", "type_description": "Ganador del Partido"},
+    {"id": 603, "event_id": 503, "name": "Alcaraz Gana", "settlement_status": "PENDING", "settled_at": "null", "type_description": "Ganador del Partido"},
+    {"id": 604, "event_id": 504, "name": "Equipo A Gana", "settlement_status": "PENDING", "settled_at": "null", "type_description": "Ganador del Torneo"}
+]

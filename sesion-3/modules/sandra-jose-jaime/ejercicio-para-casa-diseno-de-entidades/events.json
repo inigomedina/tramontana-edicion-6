@@ -1,0 +1,14 @@
+[
+    {
+        "id": 501, 
+        "sport": "football", 
+        "title": "Atlético vs. Sevilla", 
+        "start_at": "2025-12-07 16:15:00", 
+        "finish_at": "null", 
+        "is_active": "true"
+    },
+    {"id": 502, "sport_id": 2, "title": "Real Madrid vs. Baskonia", "start_at": "2025-12-07 20:45:00", "finish_at": "null", "is_active": "true"},
+    {"id": 503, "sport_id": 3, "title": "Alcaraz vs. Sinner", "start_at": "2025-12-08 11:00:00", "finish_at": "null", "is_active": "true"},
+    {"id": 504, "sport_id": 4, "title": "Final League of Legends", "start_at": "2025-12-08 18:00:00", "finish_at": "null", "is_active": "true"}
+  
+]
