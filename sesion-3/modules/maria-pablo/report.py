@@ -20,5 +20,5 @@ data = json.load(sys.stdin)
 
 position = 1
 for user_info, count in data.items():
-    print(f"{position}. {user_info} con {count}")
+    print(f"{position}. {user_info} con {count} eventos")
     position += 1
