@@ -27,12 +27,15 @@ with open(users_file, 'r') as f:
 
 users_lookup = {user['id']: user for user in users}
 
-enriched_events = [
-    {**event, 'user_name': (user := users_lookup[event['user_id']]).get('name'),
-              'user_plan': user.get('plan')} 
-    if event.get('user_id') in users_lookup else event
-    for event in events
-]
+enriched_events = []
+for event in events:
+    user_id = event.get('user_id')
+    if user_id in users_lookup:
+        user = users_lookup[user_id]
+        enriched_event = {**event, 'user_name': user.get('name'), 'user_plan': user.get('plan')}
+        enriched_events.append(enriched_event)
+    else:
+        enriched_events.append(event)
 
 result = json.dumps(enriched_events, indent=2, ensure_ascii=False)
 
