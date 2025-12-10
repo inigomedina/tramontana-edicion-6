@@ -2,7 +2,7 @@
 """
 =============================================================================
 MÓDULO: join.py
-Propósito: Unir datos de eventos con datos de usuarios (como un JOIN en SQL)
+Propósito: Unir conteos de usuarios con datos de usuarios
 =============================================================================
 
 Uso:
@@ -16,27 +16,24 @@ Campos comunes:
 import json
 import sys
 
-events_file = sys.argv[1]
-users_file  = sys.argv[2]
+user_counts = json.load(sys.stdin)
 
-with open(events_file, 'r') as f:
-    events = json.load(f)
-
+users_file = sys.argv[1]
 with open(users_file, 'r') as f:
     users = json.load(f)
 
 users_lookup = {user['id']: user for user in users}
 
-enriched_events = []
-for event in events:
-    user_id = event.get('user_id')
+enriched_counts = {}
+for user_id, count in user_counts.items():
     if user_id in users_lookup:
         user = users_lookup[user_id]
-        enriched_event = {**event, 'user_name': user.get('name'), 'user_plan': user.get('plan')}
-        enriched_events.append(enriched_event)
+        name = user.get('name', 'Unknown')
+        plan = user.get('plan', 'unknown')
+        enriched_counts[f"{name} ({plan})"] = count
     else:
-        enriched_events.append(event)
+        enriched_counts[user_id] = count
 
-result = json.dumps(enriched_events, indent=2, ensure_ascii=False)
+result = json.dumps(enriched_counts, indent=2, ensure_ascii=False)
 
 print(result)
