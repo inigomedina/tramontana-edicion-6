@@ -1,0 +1,19 @@
+[
+  {
+	  "id": 801, 
+	  "user_id": 100, 
+	  "odd_id": 701, 
+	  "amount": 50.00, 
+	  "status": "OPEN", 
+	  "created_at": "2025-12-07 15:35:00"
+  },
+  {"id": 802, "user_id": 101, "odd_id": 701, "amount": 10.00, "status": "OPEN", "created_at": "2025-12-07 15:36:00"},
+  {"id": 803, "user_id": 102, "odd_id": 702, "amount": 100.00, "status": "OPEN", "created_at": "2025-12-07 15:37:00"},
+  {"id": 804, "user_id": 100, "odd_id": 702, "amount": 25.00, "status": "OPEN", "created_at": "2025-12-07 15:38:00"},
+  {"id": 805, "user_id": 101, "odd_id": 703, "amount": 5.00, "status": "OPEN", "created_at": "2025-12-07 15:39:00"},
+  {"id": 806, "user_id": 102, "odd_id": 703, "amount": 75.00, "status": "OPEN", "created_at": "2025-12-07 15:40:00"},
+  {"id": 807, "user_id": 100, "odd_id": 704, "amount": 30.00, "status": "OPEN", "created_at": "2025-12-07 15:41:00"},
+  {"id": 808, "user_id": 101, "odd_id": 704, "amount": 15.00, "status": "OPEN", "created_at": "2025-12-07 15:42:00"},
+  {"id": 809, "user_id": 102, "odd_id": 701, "amount": 20.00, "status": "OPEN", "created_at": "2025-12-07 15:43:00"},
+  {"id": 810, "user_id": 100, "odd_id": 703, "amount": 5.00, "status": "OPEN", "created_at": "2025-12-07 15:44:00"}
+]
