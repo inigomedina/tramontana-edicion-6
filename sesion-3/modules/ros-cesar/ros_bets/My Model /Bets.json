@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "market_id": 1,
+    "stake_amount": 20.00,
+    "potential_winnings": 36.00,
+    "status": "open",
+    "actual_winnings": null,
+    "placed_at": "2024-12-10T10:00:00Z",
+    "settled_at": null
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "market_id": 4,
+    "stake_amount": 15.00,
+    "potential_winnings": 28.50,
+    "status": "won",
+    "actual_winnings": 28.50,
+    "placed_at": "2024-12-12T15:30:00Z",
+    "settled_at": "2024-12-16T20:45:00Z"
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "market_id": 5,
+    "stake_amount": 10.00,
+    "potential_winnings": 32.00,
+    "status": "lost",
+    "actual_winnings": 0.00,
+    "placed_at": "2024-12-12T16:00:00Z",
+    "settled_at": "2024-12-16T20:45:00Z"
+  },
+  {
+    "id": 4,
+    "user_id": 4,
+    "market_id": 7,
+    "stake_amount": 25.00,
+    "potential_winnings": 42.50,
+    "status": "open",
+    "actual_winnings": null,
+    "placed_at": "2024-12-19T10:15:00Z",
+    "settled_at": null
+  },
+  {
+    "id": 5,
+    "user_id": 5,
+    "market_id": 8,
+    "stake_amount": 30.00,
+    "potential_winnings": 58.50,
+    "status": "won",
+    "actual_winnings": 58.50,
+    "placed_at": "2024-12-18T01:00:00Z",
+    "settled_at": "2024-12-18T04:00:00Z"
+  },
+  {
+    "id": 6,
+    "user_id": 6,
+    "market_id": 9,
+    "stake_amount": 10.00,
+    "potential_winnings": 18.50,
+    "status": "lost",
+    "actual_winnings": 0.00,
+    "placed_at": "2024-12-18T01:10:00Z",
+    "settled_at": "2024-12-18T04:00:00Z"
+  },
+  {
+    "id": 7,
+    "user_id": 7,
+    "market_id": 10,
+    "stake_amount": 5.00,
+    "potential_winnings": 8.00,
+    "status": "open",
+    "actual_winnings": null,
+    "placed_at": "2024-12-17T19:45:00Z",
+    "settled_at": null
+  },
+  {
+    "id": 8,
+    "user_id": 1,
+    "market_id": 3,
+    "stake_amount": 12.50,
+    "potential_winnings": 24.38,
+    "status": "open",
+    "actual_winnings": null,
+    "placed_at": "2024-12-14T09:30:00Z",
+    "settled_at": null
+  },
+  {
+    "id": 9,
+    "user_id": 3,
+    "market_id": 6,
+    "stake_amount": 18.00,
+    "potential_winnings": 37.80,
+    "status": "open",
+    "actual_winnings": null,
+    "placed_at": "2024-12-19T11:00:00Z",
+    "settled_at": null
+  }
+]

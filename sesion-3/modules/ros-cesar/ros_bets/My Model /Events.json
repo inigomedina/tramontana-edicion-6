@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Real Madrid vs FC Barcelona",
+    "home_team": "Real Madrid",
+    "away_team": "FC Barcelona",
+    "sport": "football",
+    "competition": "La Liga",
+    "event_date": "2024-12-15T20:00:00Z",
+    "status": "scheduled",
+    "result": null,
+    "created_at": "2024-12-01T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Atletico Madrid vs Sevilla",
+    "home_team": "Atletico Madrid",
+    "away_team": "Sevilla",
+    "sport": "football",
+    "competition": "La Liga",
+    "event_date": "2024-12-16T18:30:00Z",
+    "status": "finished",
+    "result": "2-1",
+    "created_at": "2024-12-02T10:15:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Rafa Nadal vs Novak Djokovic",
+    "home_team": "Rafa Nadal",
+    "away_team": "Novak Djokovic",
+    "sport": "tennis",
+    "competition": "ATP Finals",
+    "event_date": "2024-12-20T17:00:00Z",
+    "status": "in_play",
+    "result": null,
+    "created_at": "2024-12-05T08:45:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Lakers vs Celtics",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Boston Celtics",
+    "sport": "basketball",
+    "competition": "NBA",
+    "event_date": "2024-12-18T02:00:00Z",
+    "status": "finished",
+    "result": "110-105",
+    "created_at": "2024-12-03T12:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Manchester City vs Liverpool",
+    "home_team": "Manchester City",
+    "away_team": "Liverpool",
+    "sport": "football",
+    "competition": "Premier League",
+    "event_date": "2024-12-19T21:00:00Z",
+    "status": "scheduled",
+    "result": null,
+    "created_at": "2024-12-07T13:20:00Z"
+  }
+]
