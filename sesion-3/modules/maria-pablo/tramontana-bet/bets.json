@@ -1,0 +1,90 @@
+[
+  {
+    "id": "bet_001",
+    "user_id": "usr_001",
+    "odds_id": "odds_001",
+    "amount": 10.0,
+    "odds_snapshot": 2.5,
+    "status": "won",
+    "created_at": "2025-12-15T18:45:00Z",
+    "parent_bet_id": null,
+    "is_combined": false
+  },
+  {
+    "id": "bet_002", 
+    "user_id": "usr_002",
+    "odds_id": "odds_002",
+    "amount": 5.0,
+    "odds_snapshot": 3.0,
+    "status": "lost", 
+    "created_at": "2025-12-15T19:15:00Z",
+    "parent_bet_id": null,
+    "is_combined": false
+  },
+  {
+    "id": "bet_003",
+    "user_id": "usr_003", 
+    "odds_id": "odds_004",
+    "amount": 15.0,
+    "odds_snapshot": 1.9,
+    "status": "pending",
+    "created_at": "2025-12-16T15:30:00Z", 
+    "parent_bet_id": null,
+    "is_combined": false
+  },
+  {
+    "id": "bet_004",
+    "user_id": "usr_001",
+    "odds_id": "odds_008",
+    "amount": 8.0,
+    "odds_snapshot": 3.1, 
+    "status": "won",
+    "created_at": "2025-12-14T17:20:00Z",
+    "parent_bet_id": null,
+    "is_combined": false
+  },
+  {
+    "id": "bet_005",
+    "user_id": "usr_004",
+    "odds_id": "odds_009", 
+    "amount": 20.0,
+    "odds_snapshot": 1.7,
+    "status": "pending",
+    "created_at": "2025-12-17T20:00:00Z",
+    "parent_bet_id": null,
+    "is_combined": false
+  },
+  {
+    "id": "bet_006",
+    "user_id": "usr_002",
+    "odds_id": "odds_006",
+    "amount": 12.0,
+    "odds_snapshot": 4.1,
+    "status": "pending", 
+    "created_at": "2025-12-16T19:45:00Z",
+    "parent_bet_id": null,
+    "is_combined": false
+  },
+  {
+    "id": "bet_007",
+    "user_id": "usr_003",
+    "odds_id": "odds_010",
+    "amount": 7.5,
+    "odds_snapshot": 2.2,
+    "status": "pending",
+    "created_at": "2025-12-17T18:30:00Z",
+    "parent_bet_id": null, 
+    "is_combined": false
+  },
+  {
+    "id": "bet_008",
+    "user_id": "usr_001", 
+    "odds_id": "odds_007",
+    "amount": 6.0,
+    "odds_snapshot": 2.1,
+    "status": "lost",
+    "created_at": "2025-12-14T16:00:00Z",
+    "parent_bet_id": null,
+    "is_combined": false
+  }
+]
