@@ -1,0 +1,39 @@
+#!/usr/bin/env python3
+
+
+'''
+POST   /api/users              # Crear usuario
+GET    /api/users/:id          # Ver usuario y saldo
+
+POST   /api/events             # Crear evento
+GET    /api/events             # Listar eventos
+GET    /api/events/:id         # Ver evento específico
+
+POST   /api/markets            # Crear cuota
+GET    /api/events/:id/markets # Ver cuotas de un evento
+
+POST   /api/bets               # Hacer apuesta
+GET    /api/users/:id/bets     # Ver apuestas de usuario
+
+PUT    /api/events/:id/result  # Marcar resultado'''
+
+import json
+from http.server import HTTPServer, BaseHTTPRequestHandler
+from datetime import datetime, timedelta
+import random
+import time
+
+
+USERS = [
+  {"id": 1, "name": "Ana García", "email": "ana.garcia@example.com","balance": 150.00, "created_at": "2024-12-01T10:00:00Z"},
+  {"id": 2, "name": "Carlos López", "email": "carlos.lopez@example.com","balance": 85.50,"created_at": "2024-12-02T11:30:00Z"},
+  {"id": 3, "name": "María Rodríguez", "email": "maria.rodriguez@example.com", "balance": 200.00, "created_at": "2024-12-03T09:15:00Z"},
+  {"id": 4, "name": "David Martínez", "email": "david.martinez@example.com", "balance": 50.00,"created_at": "2024-12-05T14:20:00Z"},
+  {"id": 5, "name": "Laura Fernández", "email": "laura.fernandez@example.com", "balance": 120.75, "created_at": "2024-12-07T16:45:00Z"},
+  {"id": 6, "name": "Javier Sánchez", "email": "javier.sanchez@example.com", "balance": 300.00, "created_at": "2024-12-10T08:30:00Z"},
+  {"id": 7, "name": "Elena Torres", "email": "elena.torres@example.com", "balance": 25.00, "created_at": "2024-12-12T12:00:00Z"}
+]
+
+EVENTS = [
+    
+]
