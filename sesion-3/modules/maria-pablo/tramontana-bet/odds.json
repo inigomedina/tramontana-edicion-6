@@ -1,0 +1,82 @@
+[
+  {
+    "id": "odds_001",
+    "event_id": "evt_001",
+    "market_type": "1X2",
+    "selection": "1",
+    "odds": 2.5,
+    "last_updated": "2025-12-15T19:30:00Z"
+  },
+  {
+    "id": "odds_002", 
+    "event_id": "evt_001",
+    "market_type": "1X2",
+    "selection": "X",
+    "odds": 3.0,
+    "last_updated": "2025-12-15T19:30:00Z"
+  },
+  {
+    "id": "odds_003",
+    "event_id": "evt_001", 
+    "market_type": "1X2",
+    "selection": "2",
+    "odds": 1.8,
+    "last_updated": "2025-12-15T19:30:00Z"
+  },
+  {
+    "id": "odds_004",
+    "event_id": "evt_002",
+    "market_type": "1X2", 
+    "selection": "1",
+    "odds": 1.9,
+    "last_updated": "2025-12-16T20:00:00Z"
+  },
+  {
+    "id": "odds_005",
+    "event_id": "evt_002",
+    "market_type": "1X2",
+    "selection": "X", 
+    "odds": 3.2,
+    "last_updated": "2025-12-16T20:00:00Z"
+  },
+  {
+    "id": "odds_006",
+    "event_id": "evt_002",
+    "market_type": "1X2",
+    "selection": "2",
+    "odds": 4.1,
+    "last_updated": "2025-12-16T20:00:00Z"
+  },
+  {
+    "id": "odds_007",
+    "event_id": "evt_003",
+    "market_type": "1X2",
+    "selection": "1",
+    "odds": 2.1,
+    "last_updated": "2025-12-14T18:30:00Z"
+  },
+  {
+    "id": "odds_008",
+    "event_id": "evt_003", 
+    "market_type": "1X2",
+    "selection": "X",
+    "odds": 3.1,
+    "last_updated": "2025-12-14T18:30:00Z"
+  },
+  {
+    "id": "odds_009",
+    "event_id": "evt_004",
+    "market_type": "winner",
+    "selection": "home",
+    "odds": 1.7,
+    "last_updated": "2025-12-17T21:00:00Z"
+  },
+  {
+    "id": "odds_010", 
+    "event_id": "evt_004",
+    "market_type": "winner",
+    "selection": "away", 
+    "odds": 2.2,
+    "last_updated": "2025-12-17T21:00:00Z"
+  }
+]
