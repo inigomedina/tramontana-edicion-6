@@ -1,19 +1,131 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-    <title>Juan ha tenido una mala experiencia</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ejercicio: Llamada con Juan</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    
+    h1 {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    h2 {
+      font-size: 18px;
+      margin-top: 30px;
+      margin-bottom: 15px;
+    }
+    
+    p {
+      margin-bottom: 15px;
+    }
+    
+    .call-section {
+      margin: 40px 0;
+      padding: 30px 0;
+      text-align: center;
+      border-top: 1px solid #ddd;
+      border-bottom: 1px solid #ddd;
+    }
+    
+    #vapi-button {
+      font-size: 60px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 20px;
+    }
+    
+    #vapi-button:hover {
+      opacity: 0.7;
+    }
+    
+    .status {
+      margin-top: 15px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
 </head>
 <body>
-    <!-- Your website content -->
+  <h1>Ejercicio: Conversación con Juan</h1>
+  
+  <h2>Contexto</h2>
+  <p>
+    Acabas de presentar mejoras en el proceso de onboarding al CEO. Al final de la reunión 
+    dice: <em>"Pues a mi amigo Juan le fue mal el alta. Si quieres, puedes hablar con él."</em>
+  </p>
+  
+  <p>
+    <strong>Tu tarea:</strong> Gestionar esta conversación con empatía y profesionalidad.
+  </p>
+  
+  <div class="call-section">
+    <button id="vapi-button">📞</button>
+    <div class="status" id="status">Presiona para llamar</div>
+  </div>
+  
+  <h2>Objetivos</h2>
+  <p>
+    • Demostrar empatía genuina<br>
+    • Hacer preguntas abiertas<br>
+    • Escuchar antes de justificar<br>
+    • Identificar acciones concretas
+  </p>
+
+  <script src="https://cdn.vapi.ai/web.js"></script>
+  <script>
+    // Reemplaza estos valores con los tuyos
+    const VAPI_PUBLIC_KEY = 'a5582940-3819-4772-b4bc-e19abf730ff0';
+    const ASSISTANT_ID = '6343aa62-d821-4b38-a783-af0a83567271';
+    const vapi = new Vapi(VAPI_PUBLIC_KEY);
+    const button = document.getElementById('vapi-button');
+    const status = document.getElementById('status');
+    let isActive = false;
     
-    <!-- Add Vapi Widget -->
-    <script src="https://unpkg.com/@vapi-ai/client-sdk-react/dist/embed/widget.umd.js" async type="text/javascript"></script>
+    vapi.on('call-start', () => {
+      isActive = true;
+      button.textContent = '📵';
+      status.textContent = 'Conectado con Juan';
+    });
     
-    <vapi-widget
-      public-key="a5582940-3819-4772-b4bc-e19abf730ff0"
-      assistant-id="6343aa62-d821-4b38-a783-af0a83567271"
-      mode="chat"
-      theme="light"
-    ></vapi-widget>
+    vapi.on('call-end', () => {
+      isActive = false;
+      button.textContent = '📞';
+      status.textContent = 'Llamada finalizada';
+    });
+    
+    vapi.on('speech-start', () => {
+      status.textContent = 'Juan está hablando...';
+    });
+    
+    vapi.on('speech-end', () => {
+      if (isActive) status.textContent = 'Tu turno';
+    });
+    
+    vapi.on('error', (e) => {
+      status.textContent = 'Error: ' + e.message;
+      button.textContent = '📞';
+      isActive = false;
+    });
+    
+    button.addEventListener('click', () => {
+      if (!isActive) {
+        status.textContent = 'Conectando...';
+        vapi.start(ASSISTANT_ID);
+      } else {
+        vapi.stop();
+      }
+    });
+  </script>
 </body>
 </html>
