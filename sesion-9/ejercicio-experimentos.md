@@ -159,3 +159,7 @@ El dataset contiene las siguientes columnas:
 7. Si decidieras no lanzar la funcionalidad, ¿cómo se lo explicarías al equipo que la desarrolló durante 3 meses?
 
 8. ¿Crees que este experimento se podría haber hecho de otra forma? ¿Qué cambiarías en el diseño?
+
+### Parte D: Bonus (opcional)
+
+9. Durante las 4 semanas que duró el experimento, el equipo de Duolingo seguramente desplegó otros cambios en el producto: correcciones de bugs, mejoras de rendimiento, quizás otros experimentos. ¿Cómo crees que esto podría afectar a los resultados? ¿Qué necesitaría tener Duolingo para poder experimentar de forma fiable a esta escala?
