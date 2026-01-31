@@ -118,6 +118,22 @@ Con estos conceptos claros, estás en posición de analizar los resultados del e
 
 En esta carpeta encontrarás el dataset `streak_rescue_experiment.csv` con los datos de los 100,000 usuarios del experimento.
 
+El dataset contiene las siguientes columnas:
+
+| Columna | Descripción |
+|---------|-------------|
+| `user_id` | Identificador único del usuario |
+| `group` | `control` o `treatment` |
+| `days_since_signup` | Días desde que se registró |
+| `segment` | `new` (<30 días), `mid` (30-90 días), `veteran` (>90 días) |
+| `is_premium` | 1 si es usuario de pago, 0 si no |
+| `country` | País del usuario |
+| `streak_at_start` | Racha al inicio del experimento |
+| `retained_d14` | 1 si seguía activo a los 14 días, 0 si no |
+| `lessons_completed_week` | Lecciones completadas por semana |
+| `time_in_app_minutes` | Minutos en la app por semana |
+| `streak_rescue_used` | 1 si usó Streak Rescue (solo tratamiento) |
+
 ---
 
 ## Preguntas
